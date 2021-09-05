@@ -1,0 +1,140 @@
+body{
+	text-align: center;
+}
+
+a {
+	cursor: url("images/scissor.gif"), url("images/scissor.cur"), default;
+}
+
+
+
+
+
+.container-fluid{
+	background-color: #94D0CC;
+	padding-top: : 5px;
+	padding-bottom: 5px;
+	padding-right: 15px;
+	
+}
+
+.ok{
+	
+	padding-left: 50px;
+	
+}
+ 
+.phuto{
+	width: 300px;
+	height: 300px;
+	transition: all 1s;
+}
+	
+.phuto:hover{
+  transform: scale(1.1);
+}
+
+.chic{
+	width: 280px;
+	height: 500px;
+}
+
+.okiee{
+	padding-top: 100px;
+	padding-right: : 50px;
+	padding-bottom: 100px;
+
+	
+	color: #000000; 
+	
+	font-size: 50px;
+	font-family: 'Dancing Script', cursive;
+
+}
+
+
+
+.gingham{
+	font-family: 'Dancing Script', cursive;
+	font-size: 40px;
+	padding-left: 30px;
+
+
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 30px;
+  color: #94D0CC;
+  
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+ font-size: 30px;
+  color: #94D0CC;
+   
+}
+
+.box{
+	border-radius: 25px;
+  border: 2px solid #94D0CC;
+ margin: 50px;
+ padding: 50px;
+
+
+	
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #94D0CC;
+  font-size: 20px;
+  background: #ffffff;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #16e3e3;
+  text-decoration: none;
+}
+
+.header{
+	font-family: 'Dancing Script', cursive;
+	font-size: 60px;
+	
+}
+
+.header2{
+	font-family: 'Playfair Display', serif;
+	color:  #94D0CC;
+}
+
+.aesthetic{
+	font-family: 'Dancing Script', cursive;
+	font-size: 40px;
+	background-color: #94D0CC;
+
+  background-image: -webkit-linear-gradient(45deg, #94D0CC 50%, #B8DFD8 50%);
+	color: #ffffff;
+	padding: 30px;
+}
+
+.content{
+	font-family: 'Cormorant Garamond', serif;
+}
+
+footer{
+	background-color: #B8DFD8 ;
+	padding: 20px;
+	margin: 0;
+
+}
+
+
+
